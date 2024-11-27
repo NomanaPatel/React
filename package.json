@@ -1,0 +1,21 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "React project by Nomana Patel",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Nomana Patel",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.13.1"
+  },
+  "alias": {
+    "process": false
+  }
+}
